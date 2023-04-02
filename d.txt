@@ -1,2 +1,6 @@
 EWRWRWER
+<<<<<<< HEAD
 fFdsfdsfdsf
+=======
+DFSFSDFSDFSDFDF
+>>>>>>> 482aab264ce9604d38e5cd9d34294dd06b5094f7
