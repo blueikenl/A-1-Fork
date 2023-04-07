@@ -10,12 +10,10 @@ dasfdasf
 
 dSFsdFsdfdfadsfdsfdasfasfasdfdsf
 function X{
-    fdsafadsfads
+    fdsafadsfadsf
     adfadsfds
     qewrqewr
     qewrqwerqew
- AA
-    ssssssssssss
-
+    BBBBB
 }
 
