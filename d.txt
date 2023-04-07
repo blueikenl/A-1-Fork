@@ -10,14 +10,12 @@ dasfdasf
 
 dSFsdFsdfdfadsfdsfdasfasfasdfdsf
 function X{
-    fdsafadsfadsf
-    adfadsfds
-    qewrqewr
-    qewrqwerqew
-<<<<<<< HEAD
-    BBBBBBBBBBBBb
-=======
-    AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
->>>>>>> 7e462b4ff7a2b7a345f45d644cad024890b8e7ff
+    adfadsfdsadsf
+    asdf
+    adfadsfdsadsf
+    ewqeqweqeq556465
+    4231231
+    32165189541
+    65415316545
 }
 
