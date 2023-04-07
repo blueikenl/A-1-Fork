@@ -14,6 +14,10 @@ function X{
     adfadsfds
     qewrqewr
     qewrqwerqew
+<<<<<<< HEAD
     BBBBBBBBBBBBb
+=======
+    AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+>>>>>>> 7e462b4ff7a2b7a345f45d644cad024890b8e7ff
 }
 
