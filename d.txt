@@ -17,7 +17,6 @@ function X{
     AA
     BBBBdsfdsfdsfdsfdsfsdfsdfsè
     ChuNhat
-    BBBB
-    asdasdqwqew
+    Thu2
 }
 
